@@ -1,0 +1,2 @@
+# Policy-DrivenImmigrationAnalysis
+ This is a comprehensive analysis of the flow of immigrants and the impacts of policy decisions on immigration patterns, which focuses on legal immigration to the United States by vaisa type. This project mainly utilizes data from the Deaprtment of Homeland Security and other reliable sources to explore the relationship bettwen immigration and economic variables through data visualization, geospatial mapping and regression analysis which is designed to inform policy and provide insights. 
