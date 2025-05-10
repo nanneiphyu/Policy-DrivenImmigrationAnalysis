@@ -11,7 +11,7 @@
  ##### 3. Census Bureau (https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html).
  ## Comparisons of Total Lawful Permanent Residents (LPRs)
  # Scripts ['clean_combined.py']
- #### Overall Numbers of LPRs Aanlysis (Three Presidential Terms - Approximate)
+ ## Overall Numbers of LPRs Aanlysis (Three Presidential Terms - Approximate)
 <p align="center">
   <img src="lpr_2009_region.png" width="200" alt="2009">
   <img src="lpr_2010_region.png" width="200" alt="2010">
@@ -38,7 +38,7 @@
 ##### Findings: Over 1 million individuals have obtained LPR status each year since 2009. The number of total LPRs peaked in 2016, almost 1.2 million. It was lowest in 2020 due to closures of USCIS offices during the COVID pandemic which impacted LPR admissions. There was a steady, rapid decline in the total LPR number during 2016-2020 which indicates the impact of policy changes during the Trump administration.
 
 #
-#### Time Series Analysis By Each Approximate Presidential Term
+## Time Series Analysis By Each Approximate Presidential Term
 <p align="center">
     <img src="lpr_annual_region.png" width="200">
 </p>
@@ -46,7 +46,7 @@
 ##### This time series represents the total numbers of people who have obtained LPRs each year from 2009 to 2020. In 2009, it starts off with over 1,100,000 numbers of LPRs, however, then fluctuates over the years. However, there is a significant rise of LPRs in 2016 during President Obama's second term. In 2020, there is a remarkable drop down to approximately 720,000 in the numbers of LPRs before the end of President's Trump's administration compared to three presidential terms. The average numbers of LPRs for each four-year terms is represented by  - 1,066,778 (2009-2012), 1,060,401 (2013-2016), 990,703 (2017-2020) each respectively.  
 
 #
-#### Regional Analysis of LPRs By Each Approximate Presidential Term
+## Regional Analysis of LPRs By Each Approximate Presidential Term
 <p align="center">
     <img src="lpr_region_1st_term.png" width="200">
     <img src="second_term_lpr_by_region.png" width="200">
@@ -55,7 +55,7 @@
 #
 ##### The maps additionally represents the numbers of LPRs coming six regions (Africa, Asia, Europe, North America, South America) around the world including regions of the world that are not explicitly identified. 
 
-#### Top 20 Countries LPRs By Each Approximate Presidential Term
+## Top 20 Countries LPRs By Each Approximate Presidential Term
 <p align="center">
   <img src="top_20_lpr_2009.png" width="200">
   <img src="top_20_lpr_2010.png" width="200">
@@ -86,7 +86,7 @@
 #
 
 
-#### CBSA Analysis By Each Approximate Presidential Term
+## CBSA Analysis By Each Approximate Presidential Term
 <p align="center">
   <img src="CBSA_lpr_2009-2012.png" width="200">
   <img src="CBSA_lpr_2013-2016.png" width="200">
