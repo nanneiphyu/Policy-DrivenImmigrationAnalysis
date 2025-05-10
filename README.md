@@ -103,3 +103,14 @@
 ##### 2.	A redistribution of migration, with smaller metro areas absorbing more inflows.
 ##### 3.	Post-2020 stagnation, with LPR numbers stabilizing at lower levels instead of climbing back up.
 ##### 4.	External influences, including policy changes, economic shifts, and the pandemic, playing a major role in shaping migration flows.
+
+## Excluded Data 
+- For Country Analysis, the followiing countries were ommitted: 'Soviet Union (former)',
+    'Serbia and Montenegro (former)',
+    'France', 
+    'Kosovo',
+    'Norway',
+    'Czechoslovakia (former)',
+    "Cote d'Ivoire", 
+    'Netherlands Antilles (former)' which are in the original dataset due to name changes over the years and inconsistency that are somewhat difficult to process. 
+- For CBSA analysis, out of the total number of population, the numbers of population that are not disclosed, that have non-CBSA, unknown and other areas in their settlement patterns have been ommitted in the analysis. 
