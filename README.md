@@ -13,26 +13,26 @@
  # Scripts ['clean_combined.py']
  ## Overall Numbers of LPRs Aanlysis (Three Presidential Terms - Approximate)
 <p align="center">
-  <img src="lpr_2009_region.png" width="200" alt="2009">
-  <img src="lpr_2010_region.png" width="200" alt="2010">
-  <img src="lpr_2011_region.png" width="200" alt="2011">
-  <img src="lpr_2012_region.png" width="200" alt="2012">
+  <img src="lpr_2009_region.png" width="500" alt="2009">
+  <img src="lpr_2010_region.png" width="500" alt="2010">
+  <img src="lpr_2011_region.png" width="500" alt="2011">
+  <img src="lpr_2012_region.png" width="500" alt="2012">
 </p>
 
 #
 <p align="center">
-  <img src="lpr_2013_region.png" width="200" alt="2009">
-  <img src="lpr_2014_region.png" width="200" alt="2010">
-  <img src="lpr_2015_region.png" width="200" alt="2011">
-  <img src="lpr_2016_region.png" width="200" alt="2012">
+  <img src="lpr_2013_region.png" width="500" alt="2009">
+  <img src="lpr_2014_region.png" width="500" alt="2010">
+  <img src="lpr_2015_region.png" width="500" alt="2011">
+  <img src="lpr_2016_region.png" width="500" alt="2012">
 </p>
 
 #
 <p align="center">
-  <img src="lpr_2017_region.png" width="200" alt="2009">
-  <img src="lpr_2018_region.png" width="200" alt="2010">
-  <img src="lpr_2019_region.png" width="200" alt="2011">
-  <img src="lpr_2020_region.png" width="200" alt="2012">
+  <img src="lpr_2017_region.png" width="500" alt="2009">
+  <img src="lpr_2018_region.png" width="500" alt="2010">
+  <img src="lpr_2019_region.png" width="500" alt="2011">
+  <img src="lpr_2020_region.png" width="500" alt="2012">
 </p>
 
 ##### Findings: Over 1 million individuals have obtained LPR status each year since 2009. The number of total LPRs peaked in 2016, almost 1.2 million. It was lowest in 2020 due to closures of USCIS offices during the COVID pandemic which impacted LPR admissions. There was a steady, rapid decline in the total LPR number during 2016-2020 which indicates the impact of policy changes during the Trump administration.
@@ -48,36 +48,36 @@
 #
 ## Regional Analysis of LPRs By Each Approximate Presidential Term
 <p align="center">
-    <img src="lpr_region_1st_term.png" width="200">
-    <img src="second_term_lpr_by_region.png" width="200">
-    <img src="third_term_lpr_by_region.png" width="200">
+    <img src="lpr_region_1st_term.png" width="500">
+    <img src="second_term_lpr_by_region.png" width="500">
+    <img src="third_term_lpr_by_region.png" width="500">
 </p>
 #
 ##### The maps additionally represents the numbers of LPRs coming six regions (Africa, Asia, Europe, North America, South America) around the world including regions of the world that are not explicitly identified. 
 
 ## Top 20 Countries LPRs By Each Approximate Presidential Term
 <p align="center">
-  <img src="top_20_lpr_2009.png" width="200">
-  <img src="top_20_lpr_2010.png" width="200">
-  <img src="top_20_lpr_2011.png" width="200">
-  <img src="top_20_lpr_2012.png" width="200">
+  <img src="top_20_lpr_2009.png" width="500">
+  <img src="top_20_lpr_2010.png" width="500">
+  <img src="top_20_lpr_2011.png" width="500">
+  <img src="top_20_lpr_2012.png" width="500">
 </p>
 
 
 #
 <p align="center">
-  <img src="top_20_lpr_2013.png" width="200">
-  <img src="top_20_lpr_2014.png" width="200">
-  <img src="top_20_lpr_2015.png" width="200">
-  <img src="top_20_lpr_2016.png" width="200">
+  <img src="top_20_lpr_2013.png" width="500">
+  <img src="top_20_lpr_2014.png" width="500">
+  <img src="top_20_lpr_2015.png" width="500">
+  <img src="top_20_lpr_2016.png" width="500">
 </p>
 
 #
 <p align="center">
-  <img src="top_20_lpr_2017.png" width="200">
-  <img src="top_20_lpr_2018.png" width="200">
-  <img src="top_20_lpr_2019.png" width="200">
-  <img src="top_20_lpr_2020.png" width="200">
+  <img src="top_20_lpr_2017.png" width="500">
+  <img src="top_20_lpr_2018.png" width="500">
+  <img src="top_20_lpr_2019.png" width="500">
+  <img src="top_20_lpr_2020.png" width="500">
 </p>
 
 # 
@@ -88,9 +88,9 @@
 
 ## CBSA Analysis By Each Approximate Presidential Term
 <p align="center">
-  <img src="CBSA_lpr_2009-2012.png" width="200">
-  <img src="CBSA_lpr_2013-2016.png" width="200">
-  <img src="CBSA_lpr_2017-2020.png" width="200">
+  <img src="CBSA_lpr_2009-2012.png" width="800">
+  <img src="CBSA_lpr_2013-2016.png" width="800">
+  <img src="CBSA_lpr_2017-2020.png" width="800">
 </p>
 
 #
