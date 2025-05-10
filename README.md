@@ -40,7 +40,7 @@
 #
 ## Time Series Analysis By Each Approximate Presidential Term
 <p align="center">
-    <img src="lpr_annual_region.png" width="200">
+  <img src="lpr_annual_region.png" width="600" alt="Time Series">
 </p>
 
 ##### This time series represents the total numbers of people who have obtained LPRs each year from 2009 to 2020. In 2009, it starts off with over 1,100,000 numbers of LPRs, however, then fluctuates over the years. However, there is a significant rise of LPRs in 2016 during President Obama's second term. In 2020, there is a remarkable drop down to approximately 720,000 in the numbers of LPRs before the end of President's Trump's administration compared to three presidential terms. The average numbers of LPRs for each four-year terms is represented by  - 1,066,778 (2009-2012), 1,060,401 (2013-2016), 990,703 (2017-2020) each respectively.  
