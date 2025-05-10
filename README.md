@@ -2,7 +2,7 @@
  Lawful permanent residents (LPRs), also known as “green card” holders, are aliens who are lawfully authorized to live permanently within the United States. This is a comprehensive analysis of the flow of Lawful Permanent Residents into the United States annually and how their settlement patterns have changed over the years into the Core Based Statistical Areas. 
  
  ## Objective 
- The purpose of this is to 
+ The purpose of this analysis is to 
  - identify the numbers of population who have received Lawful Permanent Residents each four-years (representing Presidential terms) and the region they come from in comparison; 
  - identify the top 20 countries where the number of Lawful Permanent Residents come from; 
  - analyze their settlement patterns particularly in Core Based Statistical Areas (Metro Areas) and examine if they have changed during each Presidential Period (from 2009 through 2020 - approximately three presidential terms). 
