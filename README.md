@@ -10,7 +10,8 @@
  ##### 2. Natural Earth (https://www.naturalearthdata.com/downloads/). 
  ##### 3. Census Bureau (https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html).
  ## Comparisons of Total Lawful Permanent Residents (LPRs)
- # Scripts ['clean_combined.py']
+ # Scripts
+ ##### - [clean_combined.py](clean_combined.py)
  ## Overall Numbers of LPRs Aanlysis (Three Presidential Terms - Approximate)
 <p align="center">
   <img src="lpr_2009_region.png" width="500" alt="2009">
