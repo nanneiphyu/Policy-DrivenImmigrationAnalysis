@@ -53,6 +53,7 @@
     <img src="third_term_lpr_by_region.png" width="500">
 </p>
 #
+
 ##### The maps additionally represents the numbers of LPRs coming six regions (Africa, Asia, Europe, North America, South America) around the world including regions of the world that are not explicitly identified. 
 
 ## Top 20 Countries LPRs By Each Approximate Presidential Term
